@@ -1,2 +1,4 @@
-# Hello World
- retornando ao curso de versionamento
+# Hello, World
+ Retornando ao curso de versionamento
+
+Repositório criado durante aula de git
